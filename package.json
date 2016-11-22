@@ -1,0 +1,24 @@
+{
+  "name": "e302fbbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eak302/e302fbbot.git"
+  },
+  "author": "Eak Phungampha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eak302/e302fbbot/issues"
+  },
+  "homepage": "https://github.com/eak302/e302fbbot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
